@@ -4,93 +4,264 @@
 
 ## 目录
 
+> 2021
+
+>> [angular 10 直接获取表单值](2021/155.md)
+
+>> [angular 11 ngrx/store 使用理解](2021/156.md)
+
+>> [angular 11 ngrx/effects 使用理解](2021/157.md)
+
+>> [angular 11 FormBuilder 中 FormGroup 和 FormArray 使用](2021/158.md)
+
+>> [OBS-Studio 等录屏软件录制显示器内容的黑屏的解决方法](2021/159.md)
+
+>> [Github Host 更改](2021/160.md)
+
+>> [关于内容中的 @用户 加 话题 的一些想法](2021/161.md)
+
+>> [Net Core 实现一个简单的分页功能](2021/162.md)
+
+>> [一个简单的HTML音视频播放器](2021/163.md)
+
+>> [angular 11 返回上一页保留页面数据的思考](2021/164.md)
+
+>> [Apache 开启Gzip压缩——可压缩js、css等静态文件](2021/165.md)
+
+>> [angular 11 怎么获取 Content-Disposition](2021/166.md)
+
+>> [angular 关于自定义组件事件传递](2021/167.md)
+
+>> [gin 使用笔记（一）基础](2021/168.md)
+
+>> [gin 使用笔记（二）出错点](2021/169.md)
+
+>> [UWP 读取应用内资源](2021/170.md)
+
+>> [UWP Custom Control自定义控件开发](2021/171.md)
+
+>> [uwp win2d 使用](2021/172.md)
+
+>> [js 实现一个正则替换](2021/173.md)
+
+>> [angular 12 中单例 Service 的使用](2021/174.md)
+
+>> [angular 12 全局搜索组件](2021/175.md)
+
+>> [angular 12 动态生成组件](2021/176.md)
+
+>> [angular 12 动画执行完成事件](2021/177.md)
+
+>> [angular 12 ng-deep 使用注意事项](2021/178.md)
+
+>> [js 监听按键事件](2021/179.md)
+
+>> [angular 12 显示数学公式](2021/180.md)
+
+>> [升级vue3记录](202108/181.md)
+
+>> [Godot 学习笔记(一)](202108/182.md)
+
+>> [hashcat（二）找回rar解压密码](202108/183.md)
+
+>> [Net Core 与 UWP 共用类开发](202108/184.md)
+
+>> [c# 重写 c++ 程序笔记：遍历](202108/185.md)
+
+>> [c# 调用 c++ 的dll](202108/186.md)
+
+>> [c# await 使用](202108/187.md)
+
+>> [UWP 使用 win2d](202108/188.md)
+
+
 > 2020
 
->> [登录“记住我”的实现](2019/59.md)
+>> [登录“记住我”的实现](2020/59.md)
 
->> [WPF/UWP 下图标字体文件使用](2019/60.md)
+>> [WPF/UWP 下图标字体文件使用](2020/60.md)
 
->> [XPath 语法](2019/61.md)
+>> [XPath 语法](2020/61.md)
 
->> [VS2019 开发PHP 拓展（一）环境准备](2019/62.md)
+>> [VS2019 开发PHP 拓展（一）环境准备](2020/62.md)
 
->> [VS2019 开发PHP 拓展（二）创建空拓展](2019/63.md)
+>> [VS2019 开发PHP 拓展（二）创建空拓展](2020/63.md)
 
->> [Git pull request](2019/64.md)
+>> [Git pull request](2020/64.md)
 
->> [VS2019 开发PHP 拓展（三）一些PHP定义](2019/65.md)
+>> [VS2019 开发PHP 拓展（三）一些PHP定义](2020/65.md)
 
->> [VS2019 开发PHP 拓展（四）创建 function](2019/66.md)
+>> [VS2019 开发PHP 拓展（四）创建 function](2020/66.md)
 
->> [VS2019 开发PHP 拓展（五）创建 class](2019/67.md)
+>> [VS2019 开发PHP 拓展（五）创建 class](2020/67.md)
 
->> [VS2019 开发PHP 拓展（五）创建其他内容](2019/68.md)
+>> [VS2019 开发PHP 拓展（五）创建其他内容](2020/68.md)
 
->> [typescript 开发小程序编译当前文件](2019/69.md)
+>> [typescript 开发小程序编译当前文件](2020/69.md)
 
->> [小程序Mini-Timer开发(一)功能介绍](2019/70.md)
+>> [小程序Mini-Timer开发(一)功能介绍](2020/70.md)
 
->> [小程序Mini-Timer开发(二)http封装](2019/71.md)
+>> [小程序Mini-Timer开发(二)http封装](2020/71.md)
 
->> [小程序Mini-Timer开发(三)正式测试](2019/72.md)
+>> [小程序Mini-Timer开发(三)正式测试](2020/72.md)
 
->> [小程序Mini-Timer开发(四)使用说明](2019/73.md)
+>> [小程序Mini-Timer开发(四)使用说明](2020/73.md)
 
->> [UWP 上传图片](2019/74.md)
+>> [UWP 上传图片](2020/74.md)
 
->> [UWP 使用语言包](2019/75.md)
+>> [UWP 使用语言包](2020/75.md)
 
->> [node-sass 安装不了怎么办](2019/76.md)
+>> [node-sass 安装不了怎么办](2020/76.md)
 
->> [第一个App终于上线了](2019/77.md)
+>> [第一个App终于上线了](2020/77.md)
 
->> [Experience address](2019/78.md)
+>> [Experience address](2020/78.md)
 
->> [panic: reflect: call of reflect.Value.Interface on zero Value](2019/79.md)
+>> [panic: reflect: call of reflect.Value.Interface on zero Value](2020/79.md)
 
->> [hashcat（一）找回office文件密码](2019/80.md)
+>> [hashcat（一）找回office文件密码](2020/80.md)
 
->> [phpMyAdmin配置文件中的密文(blowfish_secret)太短。](2019/81.md)
+>> [phpMyAdmin配置文件中的密文(blowfish_secret)太短。](2020/81.md)
 
->> [网站体检之sqlmap注入](2019/82.md)
+>> [网站体检之sqlmap注入](2020/82.md)
 
->> [vscode 输出中文乱码](2019/83.md)
+>> [vscode 输出中文乱码](2020/83.md)
 
->> [input file控件限制上传文件类型](2019/84.md)
+>> [input file控件限制上传文件类型](2020/84.md)
 
->> [apache 自定义文件类型响应头](2019/85.md)
+>> [apache 自定义文件类型响应头](2020/85.md)
 
->> [PHP 转义函数](2019/86.md)
+>> [PHP 转义函数](2020/86.md)
 
->> [WEB攻防（一）基础](2019/87.md)
+>> [WEB攻防（一）基础](2020/87.md)
 
->> [Redis 使用](2019/88.md)
+>> [Redis 使用](2020/88.md)
 
->> [个人博客建站](2019/89.md)
+>> [个人博客建站](2020/89.md)
 
->> [SEO（一）内链优化试验](2019/90.md)
+>> [SEO（一）内链优化试验](2020/90.md)
 
->> [SEO（二）关键词优化试验](2019/91.md)
+>> [SEO（二）关键词优化试验](2020/91.md)
 
->> [create.js 开发小游戏（一）搭建项目](2019/92.md)
+>> [create.js 开发小游戏（一）搭建项目](2020/92.md)
 
->> [Select2使用](2019/93.md)
+>> [Select2使用](2020/93.md)
 
->> [createjs 游戏结束后重新开始 Tween 补间动画无效](2019/94.md)
+>> [createjs 游戏结束后重新开始 Tween 补间动画无效](2020/94.md)
 
->> [create.js 开发小游戏（二）蒙版](2019/95.md)
+>> [create.js 开发小游戏（二）蒙版](2020/95.md)
 
->> [gulp-vue2mini 使用教程](2019/96.md)
+>> [gulp-vue2mini 使用教程](2020/96.md)
 
->> [301跳转https和www](2019/97.md)
+>> [301跳转https和www](2020/97.md)
 
->> [angular 9 使用](2019/98.md)
+>> [angular 9 使用](2020/98.md)
 
->> [angular 9 分模块开发](2019/99.md)
+>> [angular 9 分模块开发](2020/99.md)
 
->> [angular 9 添加启动加载动画](2019/100.md)
+>> [angular 9 添加启动加载动画](2020/100.md)
 
->> [angular 9 监听子路由变化](2019/101.md)
+>> [angular 9 监听子路由变化](2020/101.md)
+
+>> [css3 实现汉堡式菜单栏](202005/104.md)
+
+>> [PHP 常用框架](202005/105.md)
+
+>> [angular 9 路由](202005/106.md)
+
+>> [关于 MasterDetail 模式页面收集](202005/108.md)
+
+>> [笔记（200521）游戏及玩家分类](202005/109.md)
+
+>> [createjs 实现封装 drawImage](202005/110.md)
+
+>> [netcore 依赖注入 AddTransient、AddScoped、AddSingleton](202005/111.md)
+
+>> [angular 9 表单验证及确认密码验证](202005/112.md)
+
+>> [angular 9 自定义部件及获取页面元素](202005/113.md)
+
+>> [c# 获取局域网ip](202005/114.md)
+
+>> [c# 添加防火墙例外端口](202005/115.md)
+
+>> [angular9教程之PullToRefresh](202005/116.md)
+
+>> [angular9 + css3 make Burger Menu](202005/117.md)
+
+>> [局域网文件传输工具](202005/118.md)
+
+>> [后台列表页进阶之路](202005/119.md)
+
+>> [抛弃create.js 改用pixi.js](202005/129.md)
+
+>> [js 数组排序 sort](202005/121.md)
+
+>> [UWP TextBlock 换行](202005/122.md)
+
+>> [c# 图片处理及ico 生成](202005/123.md)
+
+>> [gulp-vue2mini 更新日志](202005/124.md)
+
+>> [小程序商城开发总结](202005/125.md)
+
+>> [GitHub 下载慢怎么办](202005/126.md)
+
+>> [网站体检之xss攻击](202005/127.md)
+
+>> [WPF 使用 WebView2](202005/128.md)
+
+>> [flutter 主题配置](202005/129.md)
+
+>> [flutter 自定义 AppBar](202005/130.md)
+
+>> [flutter API请求](202005/131.md)
+
+>> [flutter swiper 使用](202005/132.md)
+
+>> [flutter 页面滚动条](202005/133.md)
+
+>> [对于zodream 框架的优化的思考](202005/134.md)
+
+>> [kotlin AndroidManifest 注意事项](202005/135.md)
+
+>> [angular 9 升级 angular 10](202008/136.md)
+
+>> [go init函数](202008/137.md)
+
+>> [Regex Generator 使用指南](202008/138.md)
+
+>> [flutter 跳转页面操作上一页](202008/139.md)
+
+>> [微信小程序开发记录（一）真机无法进入页面](202008/140.md)
+
+>> [dpl 文件](202008/141.md)
+
+>> [angular10教程之http 拦截器](202008/142.md)
+
+>> [Wallpager Engine 删除记录](202008/143.md)
+
+>> [flutter gradle依赖下载](202008/144.md)
+
+>> [win10添加删除开机自启项](202008/145.md)
+
+>> [flutter margin 负值实现](202008/146.md)
+
+>> [CC协议](202008/147.md)
+
+>> [flutter CupertinoPicker 使用不显示](202008/148.md)
+
+>> [基于不同形式的json响应处理](202008/149.md)
+
+>> [angular 10 自定义控件支持 formControlName](202008/150.md)
+
+>> [js 对 FileList 进行文件过滤上传](202008/151.md)
+
+>> [微信小程序跨页面传值](202008/152.md)
+
+>> [htaccess 搭配 angular 10 放在二级目录](202008/153.md)
+
+>> [angular 10 使用 tinymce 编辑器](202008/154.md)
 
 > 2019
 
